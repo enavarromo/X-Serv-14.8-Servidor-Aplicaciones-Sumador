@@ -3,10 +3,6 @@
 import socket
 import random
 
-"""
-No se si se tragara esto, estando aqui, puede estar mal ubicado o faltarle
-self. y demas...:
-"""
 # -------------- Port Set Up --------------
 G_host = socket.gethostname()
 G_port = 1234
